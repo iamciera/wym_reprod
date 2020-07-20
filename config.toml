@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://iamciera.github.io/wym_reprod/"
 languageCode = "en-us"
 title = "Bird's Eye Reproducibility"
 theme = "minimal"
