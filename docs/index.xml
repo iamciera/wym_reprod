@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bird&#39;s Eye Reproducibility</title>
+    <title>Bird&#39;s Eye View of Reproducibility</title>
     <link>https://iamciera.github.io/wym_reprod/</link>
-    <description>Recent content on Bird&#39;s Eye Reproducibility</description>
+    <description>Recent content on Bird&#39;s Eye View of Reproducibility</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iamciera.github.io/wym_reprod/about/</guid>
-      <description>Part 1 - Introduction (15 min) Intro: Me and Computational Reproducibiltiy (slides) - background - reproducbility define  (15 min) Break out. In (15 min) Come back to talk about.
-Discussion: What are the hardest parts about working to make your work fully reproducible?
-Part 2 - Birds Eye View (slides) (30 minute) Principles of Workflow Design - Define workflow vs pipeline - Introduction to schematic - Introduction to research products - Introduction to each phase Discussion (15 min): Whole group.</description>
+      <description>Part 1 - Introduction  Intro: Me and Computational Reproducibility. 20 min (slides) Breakout Discussion 1 15 min  Go to notes here Introduce yourself: Name, Career Stage, why you came today Assign a note taker Q1: If you were asked to make your project 100% computational reproducible, what specific challenges would you face?   Group Insights 3-5 min each group  Part 2 - Principles of Work flow Design  Principles of Work flow Design 25 min (slides) Breakout Discussion 2 15 min  Go to notes here Assign a note taker Q2: Describe your research team (career stages, comp.</description>
     </item>
     
   </channel>

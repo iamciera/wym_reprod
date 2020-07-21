@@ -1,6 +1,6 @@
 baseURL = "https://iamciera.github.io/wym_reprod/"
 languageCode = "en-us"
-title = "Bird's Eye Reproducibility"
+title = "Bird's Eye View of Reproducibility"
 theme = "minimal"
 googleAnalytics = ""
 publishDir = "docs"
